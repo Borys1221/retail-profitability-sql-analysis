@@ -176,7 +176,14 @@ AI was particularly helpful in:
 
 \- Structuring window functions
 
+## Tools Used
+
+- SQL (SQLite)
+- GitHub
+- Sample Superstore Dataset
+
 \- Optimizing aggregation queries
 
 \- Stress-testing business hypotheses
+
 
